@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <class name="user">
+        <object Id="067e6162-3b6f-4ae2-a171-2470b63dff00">
+            <properties>
+                <property name="email"><![CDATA[movil@facci.com]]></property>
+                <property name="password"><![CDATA[hello]]></property>
+            </properties>
+        </object>
+    </class>
+    <class name="item">
+        <object Id="067e6162-3b6f-4ae2-a171-2470b63dff01">
+            <properties>
+                <property name="type"><![CDATA[Consola]]></property>
+                <property name="name"><![CDATA[PS5 console]]></property>
+                <property name="description"><![CDATA[Consola de ultima generacion ideal para toda la familia]]></property>
+                <property name="price"><![CDATA[1050.50]]></property>
+                <property name="image"><![CDATA[067e6162-3b6f-4ae2-a171-2470b63dff10.jpg]]></property>
+            </properties>
+        </object>
+        <object Id="067e6162-3b6f-4ae2-a171-2470b63dff02">
+            <properties>
+                <property name="type"><![CDATA[console]]></property>
+                <property name="name"><![CDATA[Xbox One + Gears Of War]]></property>
+                <property name="description"><![CDATA[Edicion limitada!!!]]></property>
+                <property name="price"><![CDATA[300.80]]></property>
+                <property name="image"><![CDATA[067e6162-3b6f-4ae2-a171-2470b63dff11.jpg]]></property>
+            </properties>
+        </object>
+        <object Id="067e6162-3b6f-4ae2-a171-2470b63dff03">
+            <properties>
+                <property name="type"><![CDATA[skate]]></property>
+                <property name="name"><![CDATA[PATINETA]]></property>
+                <property name="description"><![CDATA[Ideal para niños y adolescentes]]></property>
+                <property name="price"><![CDATA[60.90]]></property>
+                <property name="image"><![CDATA[067e6162-3b6f-4ae2-a171-2470b63dff12.jpg]]></property>
+            </properties>
+        </object>
+    </class>
+</data>
